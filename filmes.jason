@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Dogville",
+    "Year": 2003,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 178
+  },
+  {
+    "Title": "Top Gun",
+    "Year": 1986,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 109
+  },
+  {
+    "Title": "Barbie",
+    "Year": 2011,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 97
+  }
+]
